@@ -1,0 +1,75 @@
+The unique count of full names : 48418
+The unique count of last names : 468
+The unique count of first names : 3006
+The common last names : 
+LastName : Barton -> number of occurrences : 143
+LastName : Lang -> number of occurrences : 136
+LastName : Ortiz -> number of occurrences : 135
+LastName : Hilll -> number of occurrences : 134
+LastName : Hills -> number of occurrences : 130
+LastName : Terry -> number of occurrences : 129
+LastName : Romaguera -> number of occurrences : 128
+LastName : Becker -> number of occurrences : 128
+LastName : Johns -> number of occurrences : 128
+LastName : Batz -> number of occurrences : 127
+The common first names : 
+FirstName : Tara -> number of occurrences : 32
+FirstName : Stephania -> number of occurrences : 31
+FirstName : Andreanne -> number of occurrences : 31
+FirstName : Keon -> number of occurrences : 31
+FirstName : Kaycee -> number of occurrences : 30
+FirstName : Ulices -> number of occurrences : 29
+FirstName : Dashawn -> number of occurrences : 29
+FirstName : Heath -> number of occurrences : 29
+FirstName : Kayley -> number of occurrences : 29
+FirstName : Charlotte -> number of occurrences : 29
+The unique complete names : 
+Name : Graham Mckenna
+Name : Marvin Garfield
+Name : McLaughlin Mariah
+Name : Lang Agustina
+Name : Bradtke Nikko
+Name : Adams Luis
+Name : Lehner Matilde
+Name : Ortiz Anita
+Name : Koch Berry
+Name : Cartwright Nicolas
+Name : Fisher Elmo
+Name : Kunze Gertrude
+Name : Stanton Davin
+Name : Runolfsdottir Roy
+Name : Rogahn Colby
+Name : Tromp Ryley
+Name : Hoppe Stanley
+Name : Shanahan Bethel
+Name : Hills Samanta
+Name : McGlynn Thad
+Name : Lynch Norma
+Name : Bahringer Lennie
+Name : Tillman Madison
+Name : Stoltenberg Donna
+The modified complete names : 
+Name : Graham Garfield
+Name : Marvin Mariah
+Name : McLaughlin Agustina
+Name : Lang Nikko
+Name : Bradtke Luis
+Name : Adams Matilde
+Name : Lehner Anita
+Name : Ortiz Berry
+Name : Koch Nicolas
+Name : Cartwright Elmo
+Name : Fisher Gertrude
+Name : Kunze Davin
+Name : Stanton Roy
+Name : Runolfsdottir Colby
+Name : Rogahn Ryley
+Name : Tromp Stanley
+Name : Hoppe Bethel
+Name : Shanahan Samanta
+Name : Hills Thad
+Name : McGlynn Norma
+Name : Lynch Lennie
+Name : Bahringer Madison
+Name : Tillman Donna
+Name : Stoltenberg Mckenna
